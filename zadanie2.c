@@ -7,7 +7,7 @@ int zmienna, tmp,i;
 
 for (i=0; i<N; i++)
 {
- tab[i]=rand()%100;
+ tab[i]=rand()%20;
 }
 for (i=0; i<N; i++)
 {
